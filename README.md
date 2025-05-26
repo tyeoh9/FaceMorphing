@@ -1,12 +1,7 @@
 # Face Morphing
 A Python project that uses OpenCV and simple mathematics to morph between two faces. For a more in-depth view into this project, see [this blog post](https://tyeoh9.github.io/tyeoh/projects/cs180/project3/).
 
-<!-- <img src="part3_results/morphed_kanye_thomas.gif" width="40" height="40" /> -->
-<div style="display: flex; flex-wrap: wrap; justify-content: center;">
-  <img src="photos/kanye.jpg" style="width: 33%;"/>
-  <img src="part3_results/morphed_kanye_thomas-ezgif.com-loop-count.gif" style="width: 33%;"/>
-  <img src="photos/thomas.jpg" style="width: 33%;"/>
-</div>
+<img src="part3_results/morphed_kanye_thomas-ezgif.com-loop-count.gif" style="width: 33%;"/>
 
 ## Requirements
 - OpenCV 4.10.0
